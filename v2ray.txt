@@ -1,1 +1,1 @@
-[{"user":"6ca79a68-1528-4ea8-adc1-9d1953ac222e"},{"user":"b2b6428a-8ab1-49e6-af1b-9030ad5c49cb"}]
+[{"user":"6ca79a68-1528-4ea8-adc1-9d1953ac222e"}]
